@@ -6,9 +6,8 @@ import { Suspense } from "react"
 import { ThemeSwitcher } from "@/components/theme-switcher"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "ZkPlay",
+
 }
 
 export default function RootLayout({
